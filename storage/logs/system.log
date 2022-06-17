@@ -1,0 +1,42 @@
+[2022-06-17 13:57:06] production.DEBUG: Message-ID: <0ec0f6bd182bb2ca4b444e67a842a3d4@pinchepoutine.dev>
+Date: Fri, 17 Jun 2022 13:57:06 +0100
+Subject: Welcome to =?utf-8?Q?Poutiner=C3=ADa_=C2=A1Pinche?= Poutine!
+From: =?utf-8?Q?Poutiner=C3=ADa_=C2=A1Pinche?= Poutine!
+ <cheftech@pinchepoutine.com>
+To: patrouch@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1655470626_d4a011a1277a7dec9cee3e637cbb0226_=_"
+
+<p>Hi christopher patrouch,</p>
+<h2>Thank you for registering with Poutinería ¡Pinche Poutine!.</h2>
+<p>Your account has now been created and you can log in using your email address and password by clicking the button below:</p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td>
+                                    <a href="https://pinchepoutine.dev/login" class="button button-primary" target="_blank">Login into your account</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi christopher patrouch,
+
+Thank you for registering with Poutinería ¡Pinche Poutine!.
+
+Your account has now been created and you can log in using your email address and password by visiting our website or at the following URL: https://pinchepoutine.dev/login  

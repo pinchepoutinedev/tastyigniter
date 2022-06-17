@@ -1,6 +1,6 @@
 <?php 
 /* /var/www/pinchepoutine.dev/tastyigniter/themes/demo/_layouts/default.blade.php */
-class Pagic62aa3b31e70cd701537468_57cf247b6d17b3f9f3ae89b524033412Class extends \Main\Template\Code\LayoutCode
+class Pagic62ab5ca43a65b686037356_ec7245c143bdfd035222ee520a2c5ab8Class extends \Main\Template\Code\LayoutCode
 {
 
 }

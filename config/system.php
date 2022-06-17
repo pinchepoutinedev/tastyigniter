@@ -210,7 +210,7 @@ return [
     |
     */
 
-    'enableAssetCombiner' => true,
+    'enableAssetCombiner' => false,
 
     /*
     |--------------------------------------------------------------------------

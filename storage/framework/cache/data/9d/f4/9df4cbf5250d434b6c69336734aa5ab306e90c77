@@ -1,0 +1,45 @@
+1655494066a:1:{s:20:"components.blade.php";a:9:{s:8:"fileName";s:20:"components.blade.php";s:5:"mTime";i:1653048896;s:7:"content";s:457:"---
+title: main::lang.contact.title
+layout: default
+permalink: /components
+
+'[account]':
+---
+<div class="container">
+    <div class="row">
+        @push('scripts')
+            <p>This is a stack</p>
+        @endpush
+
+        @push('scripts')
+            <p>This is a stack</p>
+        @endpush
+
+        @auth('admin')
+            <p>This is a logged admin</p>
+        @endauth
+
+        @partialIf('scriprts')
+
+        @component('account')
+    </div>
+</div>";s:6:"markup";s:365:"
+<div class="container">
+    <div class="row">
+        @push('scripts')
+            <p>This is a stack</p>
+        @endpush
+
+        @push('scripts')
+            <p>This is a stack</p>
+        @endpush
+
+        @auth('admin')
+            <p>This is a logged admin</p>
+        @endauth
+
+        @partialIf('scriprts')
+
+        @component('account')
+    </div>
+</div>";s:4:"code";N;s:5:"title";s:24:"main::lang.contact.title";s:6:"layout";s:7:"default";s:9:"permalink";s:11:"/components";s:9:"[account]";N;}}
