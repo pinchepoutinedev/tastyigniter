@@ -1,4 +1,4 @@
-1655483742a:1:{s:24:"nav/local_tabs.blade.php";a:5:{s:8:"fileName";s:24:"nav/local_tabs.blade.php";s:5:"mTime";i:1653048896;s:7:"content";s:1487:"<ul id="nav-tabs" class="nav-menus nav nav-tabs py-2">
+1655764373a:1:{s:24:"nav/local_tabs.blade.php";a:5:{s:8:"fileName";s:24:"nav/local_tabs.blade.php";s:5:"mTime";i:1653048896;s:7:"content";s:1487:"<ul id="nav-tabs" class="nav-menus nav nav-tabs py-2">
     <li class="nav-item">
         <a
             @class(['nav-link rounded-pill py-1 fw-bold', 'text-muted' => $activeTab !== 'menus', 'active' => $activeTab === 'menus'])

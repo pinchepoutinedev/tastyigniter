@@ -1,4 +1,4 @@
-1655494066a:1:{s:17:"scripts.blade.php";a:5:{s:8:"fileName";s:17:"scripts.blade.php";s:5:"mTime";i:1653048896;s:7:"content";s:197:"{!! Assets::getJsVars() !!}
+1655764373a:1:{s:17:"scripts.blade.php";a:5:{s:8:"fileName";s:17:"scripts.blade.php";s:5:"mTime";i:1653048896;s:7:"content";s:197:"{!! Assets::getJsVars() !!}
 @scripts
 {!! $this->theme->ga_tracking_code !!}
 @if (!empty($this->theme->custom_js))

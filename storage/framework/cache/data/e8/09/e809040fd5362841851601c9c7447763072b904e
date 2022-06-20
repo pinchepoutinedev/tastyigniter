@@ -1,1 +1,1 @@
-9999999999a:0:{}
+9999999999a:5:{s:13:"button_delete";s:39:"<i class="fa fa-trash-o"></i>  Delete";s:10:"button_new";s:33:"<i class="fa fa-plus"></i>  New";s:14:"button_refresh";s:40:"<i class="fa fa-refresh"></i>  Refresh";s:11:"button_save";s:34:"<i class="fa fa-save"></i>  Save";s:17:"button_save_close";s:42:"<i class="fa fa-save"></i>  Save & Close";}

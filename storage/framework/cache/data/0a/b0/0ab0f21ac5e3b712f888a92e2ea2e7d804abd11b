@@ -1,4 +1,4 @@
-1655436038a:1:{s:28:"pagination/default.blade.php";a:5:{s:8:"fileName";s:28:"pagination/default.blade.php";s:5:"mTime";i:1653048896;s:7:"content";s:1173:"@if ($paginator->hasPages())
+1655595630a:1:{s:28:"pagination/default.blade.php";a:5:{s:8:"fileName";s:28:"pagination/default.blade.php";s:5:"mTime";i:1653048896;s:7:"content";s:1173:"@if ($paginator->hasPages())
     <ul class="pagination">
         @if ($paginator->onFirstPage())
             <li class="page-item disabled"><span class="page-link">«</span></li>

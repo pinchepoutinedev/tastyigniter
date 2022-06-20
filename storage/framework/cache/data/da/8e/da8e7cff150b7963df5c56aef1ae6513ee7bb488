@@ -1,4 +1,4 @@
-1655494066a:1:{s:23:"nav/main_menu.blade.php";a:5:{s:8:"fileName";s:23:"nav/main_menu.blade.php";s:5:"mTime";i:1653048896;s:7:"content";s:1477:"<ul class="nav navbar-nav">
+1655764373a:1:{s:23:"nav/main_menu.blade.php";a:5:{s:8:"fileName";s:23:"nav/main_menu.blade.php";s:5:"mTime";i:1653048896;s:7:"content";s:1477:"<ul class="nav navbar-nav">
     @foreach ($items as $navItem)
         @continue(Auth::isLogged() && in_array($navItem->code, ['login', 'register']))
         @continue(!Auth::isLogged() && in_array($navItem->code, ['account', 'recent-orders']))
